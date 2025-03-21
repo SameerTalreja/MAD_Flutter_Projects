@@ -34,7 +34,11 @@ class WhiteScreen extends StatelessWidget {
         child: Column(children: <Widget>[
           Text(
             'Hello, World!', // Placeholder text
-            style: TextStyle(fontSize: 30, color: Colors.red),
+            style: TextStyle(
+                fontSize: 30,
+                color: Colors.red,
+                fontWeight: FontWeight.w700,
+                backgroundColor: Colors.grey),
           ),
           Padding(
               padding: const EdgeInsets.all(10.5),
@@ -47,10 +51,17 @@ class WhiteScreen extends StatelessWidget {
 
       floatingActionButton: Center(
           child: Padding(
-        padding: const EdgeInsets.only(top: 450),
+        padding: const EdgeInsets.only(top: 650),
         child: FloatingActionButton(
           onPressed: () {},
-          child: Text('Press me '),
+          child: Center(
+              child: Text(
+            'Press ',
+            style: TextStyle(
+                fontSize: 20,
+                fontWeight: FontWeight.bold,
+                backgroundColor: Colors.purple),
+          )),
           backgroundColor: const Color.fromARGB(255, 136, 215, 227),
         ),
       )),
