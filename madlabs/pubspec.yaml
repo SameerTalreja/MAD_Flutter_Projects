@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   provider: ^6.1.5
   get: ^4.7.2
+  http: ^1.4.0
 
 dev_dependencies:
   flutter_test:
@@ -55,6 +56,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/profile.jpeg
+    - assets/background.jpg
      # Add your image assets here
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
