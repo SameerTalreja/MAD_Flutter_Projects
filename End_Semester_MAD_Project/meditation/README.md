@@ -1,10 +1,23 @@
 # Meditation App
 
+## 📦 GitHub Repository Link
+[https://github.com/SameerTalreja/MAD_Flutter_Projects/tree/main/End_Semester_MAD_Project/meditation]
+
 A modern Flutter-based meditation app designed to help users relax, focus, and improve their mindfulness. This project demonstrates best practices in Flutter development, clean architecture, and beautiful UI/UX.
 
 ## Project Overview
 
 The Meditation App provides guided meditation sessions, calming sounds, and progress tracking to support users on their mindfulness journey. With a clean interface and smooth navigation, users can easily explore meditation exercises, set reminders, and monitor their progress.
+
+## 🖼️ Example Mockup
+
+![App Mockup](assets/readme/Mockup.png)
+
+
+## 🎬 Video Demo
+
+[![Watch the demo](assets/readme/demo_video.mp4)
+
 
 ## Features
 
@@ -52,8 +65,8 @@ lib/
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
-   cd meditation
+   git clone https://github.com/SameerTalreja/MAD_Flutter_Projects.git
+   cd End_Semester_MAD_Project/meditation
    ```
 
 2. **Install dependencies:**
