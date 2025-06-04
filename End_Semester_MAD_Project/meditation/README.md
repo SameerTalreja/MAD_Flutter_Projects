@@ -16,7 +16,14 @@ The Meditation App provides guided meditation sessions, calming sounds, and prog
 
 ## 🎬 Video Demo
 
-[![Watch the demo](assets/readme/demo_video.mp4)
+
+
+
+https://github.com/user-attachments/assets/620e0d13-f18c-45ed-8f0a-0d52a28039f4
+
+
+
+
 
 
 ## Features
